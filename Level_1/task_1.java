@@ -6,7 +6,7 @@ Description: Create a program that converts temperatures between Celsius and Fah
 package cognifyz_Java_tasks.Level_1;
 import java.util.Scanner;
 
-public class task1 {
+public class task_1 {
     public static void main(String[] args) {
         System.out.println("Temperature Converter");
         Scanner input = new Scanner(System.in);

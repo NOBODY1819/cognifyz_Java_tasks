@@ -7,7 +7,7 @@ package cognifyz_Java_tasks.Level_1;
 
 import java.util.Scanner;
 
-public class task2 {
+public class task_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a String : ");
